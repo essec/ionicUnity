@@ -1,5 +1,7 @@
 {
   "name": "ionicUnity",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
